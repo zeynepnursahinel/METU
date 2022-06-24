@@ -1,0 +1,18 @@
+;LABEL	DIRECTIVE	VALUE	COMMENT
+
+					AREA routines, CODE, READONLY
+					THUMB
+					EXPORT DELAY100
+						
+DELAY100
+
+AGAIN 		
+			SUBS R0,R0,#1
+			BNE  AGAIN
+			BX LR
+			
+			ALIGN
+			END
+			
+			
+			
