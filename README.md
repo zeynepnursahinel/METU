@@ -1,6 +1,6 @@
 # METU
 
-1- [Internship (EE300)](https://github.com/zeynepnursahinel/METU/tree/main/UART%20using%20VHDL%20(EE300))
+1- [Internship (EE400)](https://github.com/zeynepnursahinel/METU/tree/main/UART%20using%20VHDL%20(EE300))
 
 2- [Operating Systems (EE442)](https://github.com/zeynepnursahinel/METU/tree/main/Operating%20System%20(EE442))
 
