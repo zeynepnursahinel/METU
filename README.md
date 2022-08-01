@@ -6,7 +6,7 @@
 
 3- [Computer Networks (EE444)](https://github.com/zeynepnursahinel/METU/tree/main/Computer%20Networks%20(EE444))
 
-4- [Computer Architecture](https://github.com/zeynepnursahinel/METU/tree/main/Computer%20Architecture%20(EE446))
+4- [Computer Architecture (EE446)](https://github.com/zeynepnursahinel/METU/tree/main/Computer%20Architecture%20(EE446))
 
 5- [Microprocessors (EE447)](https://github.com/zeynepnursahinel/METU/tree/main/Microprocessors%20(EE447))
 
