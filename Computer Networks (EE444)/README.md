@@ -14,6 +14,4 @@
 
 7- [Data Link Layer](https://github.com/zeynepnursahinel/METU/tree/main/Computer%20Networks%20(EE444)/Data%20Link%20Layer)
 
-8- [OMNet++](https://github.com/zeynepnursahinel/METU/tree/main/Computer%20Networks%20(EE444)/OMNet%2B%2B)
-
 Reference: METU EE444 LECTURES - ECE GURAN SCHMIDT
